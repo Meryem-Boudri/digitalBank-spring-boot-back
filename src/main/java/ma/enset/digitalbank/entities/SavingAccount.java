@@ -7,7 +7,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-
 @DiscriminatorValue("SA")
 @Data
 @NoArgsConstructor
